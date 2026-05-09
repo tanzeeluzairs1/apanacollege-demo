@@ -1,4 +1,2 @@
 # apanacollege-demo
-first git repo
-<br>
-gigugiugiughiugiugiug
+first git repository
